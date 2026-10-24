@@ -43,10 +43,12 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql,sqlite,postgres,pytorch,tensorflow,sklearn,numpy,pandas,fastapi,git,github,vscode,gcp,aws,discord&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql,sqlite,postgres,pytorch,tensorflow,sklearn,fastapi,git,github,vscode,gcp,aws,discord&perline=7" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
@@ -55,6 +57,7 @@
   <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   <img src="https://img.shields.io/badge/-edX-02262B?style=for-the-badge&logo=edx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Ed%20Discussion-6B4FBB?style=for-the-badge"/>
 </p>
 
 ---
