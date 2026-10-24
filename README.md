@@ -43,7 +43,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,pytorch,tensorflow,keras,sklearn&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,pytorch,tensorflow,sklearn&perline=7" />
 </p>
 
 <p align="center">
