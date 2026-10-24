@@ -1,40 +1,88 @@
-# Hassann_codes
-<h1 align="center">Hi 👋, I'm Hassan Faisal</h1>
-<h3 align="center">A passionate Ai,ML engineer from Pakistan</h3>
+<!-- 🔥 Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hassan%20Faisal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seammarahmad&label=Profile%20views&color=0e75b6&style=flat" alt="seammarahmad" /> </p>
+<h1 align="center">👋 Hi, I'm Hassan Faisal</h1>
+<h3 align="center">Passionate AI/ML Engineer | Student</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+AI%2FML+Engineer;Python+%7C+C%2B%2B+%7C+SQL;Machine+Learning+%7C+Deep+Learning;Always+Learning+and+Building+🚀&center=true&width=500&height=45">
+</p>
 
-## 🏆 GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=seammarahmad&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="seammarahmad" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hassann-codes&label=Profile+Views&color=2c5364&style=for-the-badge"/>
 </p>
 
 ---
 
-- 🌱 I'm currently learning **Machine Learning, Deep Learning and Agentic AI**
+## 🧠 About Me
 
-- 💬 Ask me about **Python**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
-- 📫 How to reach me **hassanfaisal67890@gmail.com**
+- 🎓 Student with a strong passion for **AI and Machine Learning**
+- 💡 Building projects to learn and solve real-world problems
+- 🤖 Working with **Python, Scikit-learn, Keras, TensorFlow, PyTorch**
+- 🤗 Using **Hugging Face** for pretrained models
 
 ---
 
-## 🌐 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/Hassan Faisal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
+## 🌱 Currently Learning
+
+- Deep Learning and Neural Networks
+- Natural Language Processing
+- Hugging Face Transformers
+
+---
+
+## 🧩 Projects
+
+- 🤖 **Smart Chatbot (Python)**  
+  → A Python-based chatbot that responds to user questions intelligently.
+
+> More projects coming soon 🚀
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,pytorch,tensorflow,keras,sklearn&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools:
+## 🏆 Certifications
 
-| C++ | Python | VS Code | Pandas | NumPy | Matplotlib | Seaborn | MySQL |
-|-----|--------|---------|--------|-------|------------|---------|-------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/> | <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> |
+- 🎓 **CS50's Introduction to Programming with Python** — Harvard University (CS50P)
+- 🎓 **CS50's Introduction to Artificial Intelligence with Python** — Harvard University (CS50AI)
+
 ---
+
+## 🤝 Open to Collaboration
+
+I'm open to collaborating on **AI/ML projects**, learning opportunities, and internships. Feel free to reach out!
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/hassan-faisal-03670a369"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.kaggle.com/hassanfaysal"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://instagram.com/hassan_ibrar632"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:hassanfaisal67890@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hassann-codes&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassann-codes&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
