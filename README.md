@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+AI%2FML+Engineer;Python+%7C+C%2B%2B+%7C+SQL;Machine+Learning+%7C+Deep+Learning;Always+Learning+and+Building+🚀&center=true&width=500&height=45">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hassann-codes&label=Profile+Views&color=2c5364&style=for-the-badge"/>
-</p>
-
 ---
 
 ## 🧠 About Me
@@ -74,7 +70,6 @@ I'm open to collaborating on **AI/ML projects**, learning opportunities, and int
 <p align="center">
 <a href="https://www.linkedin.com/in/hassan-faisal-03670a369"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.kaggle.com/hassanfaysal"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="https://instagram.com/hassan_ibrar632"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:hassanfaisal67890@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
