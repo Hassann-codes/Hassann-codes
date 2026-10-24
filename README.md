@@ -94,7 +94,7 @@ I'm open to collaborating on **AI/ML projects**, learning opportunities, and int
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassann-codes&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seammarahmad/seammarahmad/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seammarahmad/seammarahmad/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/seammarahmad/seammarahmad/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hassann-codes/Hassann-codes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hassann-codes/Hassann-codes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hassann-codes/Hassann-codes/output/pacman-contribution-graph.svg">
 </picture>
