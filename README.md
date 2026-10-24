@@ -78,9 +78,11 @@ I'm open to collaborating on **AI/ML projects**, learning opportunities, and int
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hassan-faisal-03670a369"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.kaggle.com/hassanfaysal"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="mailto:hassanfaisal67890@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hassan-faisal-03670a369"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/hassanfaysal"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="48" height="48" alt="Kaggle"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:hassanfaisal67890@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email"/></a>
 </p>
 
 ---
